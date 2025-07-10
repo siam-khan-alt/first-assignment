@@ -1,0 +1,8 @@
+.nav-1{
+    display: flex;
+    justify-content: space-between;
+}
+.ti{
+    color: #4E47FF;
+    font-size: 34px;
+}
