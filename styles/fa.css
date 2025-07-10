@@ -1,8 +1,33 @@
 .nav-1{
     display: flex;
     justify-content: space-between;
+    text-decoration: none;
+    gap: 10px;
+   align-items: center;
+    padding-top: 50px;
+    width: 1140px;
+    height: 151px;
+
+}
+.nav-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    
 }
 .ti{
     color: #4E47FF;
     font-size: 34px;
+    width: 99px;
+    height: 51px;
+}
+.btn{
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    padding: 12px 36px;
+    border-radius: 10px;
+    transform: scale(1.05);
+    border: none;
 }
